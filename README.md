@@ -1,8 +1,4 @@
-# awesome-distributed-systems
-
-A (hopefully) curated list on awesome material on distributed systems, inspired by
-other awesome frameworks like [awesome-python](https://github.com/vinta/awesome-python).
-Most links will tend to be readings on architecture itself rather than code itself.
+# distributed-systems-reading-list
 
 ## Bootcamp
 Read things here before you start.
@@ -76,3 +72,7 @@ Other lists like this one
 - [The Distributed Reader](http://reiddraper.github.io/distreader/)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/), A collection of material, mostly papers on Distributed Systems Theory as well as seminal industry papers 
 - [Distributed Systems Readings](https://henryr.github.io/distributed-systems-readings/), A comprehensive list of online courses related to distributed systems 
+
+## python reading list
+[awesome-python](https://github.com/vinta/awesome-python)
+
